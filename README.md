@@ -12,7 +12,7 @@ https://docs.blender.org/manual/en/3.5/addons/import_export/mesh_stl.html
 > The only changes made to the original Add-On were at "register" and "unregister" functions, where keyboard shortcuts (Ctrl + I for import / Ctrl + E for export) were added.
 
 
-## [Original Reference](https://docs.blender.org/manual/en/3.5/addons/import_export/mesh_stl)
+## [Original Reference](https://docs.blender.org/manual/en/3.5/addons/import_export/mesh_stl.html)
 
 **Category: Import-Export**
 
