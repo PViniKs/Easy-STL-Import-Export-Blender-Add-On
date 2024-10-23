@@ -76,4 +76,4 @@ https://docs.blender.org/manual/en/3.5/addons/import_export/mesh_stl.html
 - Export objects using the evaluated mesh, meaning the resulting mesh after all Modifiers have been calculated.
 
 ## Usage
-Use the operator to import ASCII or binary STL-files, you can select multiple files at once. For exporting you can select multiple objects and they will be exported as a single STL-file. You can select between ASCII/binary file format (binary is more compact). You can also choose to enable or disable the modifiers during the export. When ou are on "Object Mode", you can use `Ctrl + I` to easily import STL-files and `Ctrl + E` to export them.
+Use the operator to import ASCII or binary STL-files, you can select multiple files at once. For exporting you can select multiple objects and they will be exported as a single STL-file. You can select between ASCII/binary file format (binary is more compact). You can also choose to enable or disable the modifiers during the export. When you are on "Object Mode", you can use `Ctrl + I` to easily import STL-files and `Ctrl + E` to export them.
