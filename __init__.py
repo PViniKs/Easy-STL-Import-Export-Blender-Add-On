@@ -7,6 +7,7 @@ bl_info = {
     "description": "Modified version of native \"Import-Export STL files\" add-on, with keyboard shortcuts for import and export operators",
     "support": 'COMMUNITY',
     "category": "Import-Export",
+    "doc_url": "https://github.com/PViniKs/Easy-STL-Import-Export-Blender-Add-On",
 }
 
 """
